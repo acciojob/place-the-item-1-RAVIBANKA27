@@ -1,2 +1,15 @@
-
+.item{
+    text-align: center;
+    height: 50px;
+    width: 50px;
+}
+.item-2{
+    background-color: blue;
+}
+.item-3{
+    background-color: green;
+}
+.item-1{
+    background-color: red;
+}
 /* Your CSS Code here. */
